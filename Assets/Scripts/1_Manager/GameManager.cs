@@ -16,16 +16,19 @@ public class GameManager : SingletonBase<GameManager>
         // 추가적인 초기화 코드가 여기에 올 수 있습니다.
         DevDebug.Log("GameManager Awake called.");
         IsPaused = false;
+
+        SoundManager.Instance.PlayBGM();
     }
 
     public void TogglePause()
     {
+        SoundManager.Instance.PlaySFX(Enum.SFX.UI_Click);
         if (IsPaused)
             Resume();
         else
             Pause();
     }
-    
+
     public void Pause()
     {
         if (IsPaused) return;
