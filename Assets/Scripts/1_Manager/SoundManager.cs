@@ -104,6 +104,7 @@ public class SoundManager : SingletonBase<SoundManager>
         }
 
         UpdateVolume();
+        PlayBGM();
     }
 
     private void UpdateVolume()

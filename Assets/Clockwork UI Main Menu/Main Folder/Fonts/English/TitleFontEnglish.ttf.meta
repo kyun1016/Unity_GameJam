@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 98f53cae7bb0d014196d34b2db5ba770
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - EB Garamond
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306022
+  packageName: Clockwork UI Main Menu System
+  packageVersion: 2.0
+  assetPath: Assets/Clockwork UI Main Menu/Main Folder/Fonts/English/TitleFontEnglish.ttf
+  uploadId: 771230

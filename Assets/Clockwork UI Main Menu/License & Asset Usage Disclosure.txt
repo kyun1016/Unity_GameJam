@@ -1,0 +1,48 @@
+License & Asset Usage Disclosure
+All assets included in Clockwork UI – Main Menu System v2.0 are cleared for commercial use, redistribution, and modification as part of this Unity asset. The following outlines the license terms and sources for each category of assets used.
+
+Sound Effects (SFX):
+
+Source: Pixabay.com
+License: Free for commercial use, no attribution required
+Usage:
+All included sound effects (e.g., button clicks, hover sounds, confirmation cues) were sourced from Pixabay’s royalty-free sound library. These assets are licensed for use in commercial projects and may be modified or redistributed as part of a larger product.
+
+
+Fonts:
+
+Source: 1001fonts.com
+License: Free for commercial use
+Usage:
+All fonts used in this package were obtained exclusively from the "Free for Commercial Use" section of 1001 Fonts. These fonts are permitted for use in both free and commercial projects, including redistribution as part of a game or asset package.
+
+
+Images and Visual Assets
+Sources:
+
+Custom-created using Adobe Photoshop
+
+AI-generated using commercial-use tools such as Midjourney, DALL·E, or equivalent platforms
+
+License:
+All visual assets—including icons, UI elements, and background images—are either self-made or generated using tools that provide unrestricted commercial use rights. Each asset has been reviewed to ensure that it is original, not derivative of protected content, and free for commercial redistribution.
+
+Usage Summary
+Asset Type	Source	License Type	Commercial Use	Modification Allowed	Attribution Required
+Sound FX	Pixabay	Royalty-Free	Yes	Yes	No
+Fonts	1001 Fonts	Free for Commercial Use	Yes	Yes	No
+Images	Photoshop / AI	Self-created or AI-generated	Yes	Yes	No
+
+Redistribution Policy
+All included assets may be used as part of:
+
+Unity game development projects (both free and commercial)
+
+Redistributed within built games and compiled projects
+
+Packaged and shared as part of modified UI systems
+
+Direct resale, standalone distribution, or repackaging of these assets outside of the Clockwork UI system is not permitted.
+
+Legal Assurance
+All assets included in this package have been reviewed to comply with Unity Asset Store’s submission guidelines. 

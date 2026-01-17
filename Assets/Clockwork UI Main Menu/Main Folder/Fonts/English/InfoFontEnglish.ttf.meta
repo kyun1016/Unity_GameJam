@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: d9d218338bffbc549b00ccd67599a4be
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - EB Garamond
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306022
+  packageName: Clockwork UI Main Menu System
+  packageVersion: 2.0
+  assetPath: Assets/Clockwork UI Main Menu/Main Folder/Fonts/English/InfoFontEnglish.ttf
+  uploadId: 771230

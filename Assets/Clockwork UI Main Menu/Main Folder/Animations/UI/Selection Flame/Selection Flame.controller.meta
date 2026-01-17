@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e0ac4d1ad7d54f6488982f7ce3d9a92a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306022
+  packageName: Clockwork UI Main Menu System
+  packageVersion: 2.0
+  assetPath: Assets/Clockwork UI Main Menu/Main Folder/Animations/UI/Selection Flame/Selection
+    Flame.controller
+  uploadId: 771230

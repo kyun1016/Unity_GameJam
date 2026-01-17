@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 125dd6f0649391f40af9a15305fe5947
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 306022
+  packageName: Clockwork UI Main Menu System
+  packageVersion: 2.0
+  assetPath: Assets/Clockwork UI Main Menu/Main Folder/Animations/UI/Underline/Undeline.controller
+  uploadId: 771230

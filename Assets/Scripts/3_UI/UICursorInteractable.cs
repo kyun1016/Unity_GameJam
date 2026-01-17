@@ -12,29 +12,29 @@ public class UICursorInteractable : MonoBehaviour, IPointerEnterHandler, IPointe
     public void OnPointerEnter(PointerEventData eventData)
     {
         _isHovering = true;
-        MouseManager.Instance.SetCursor(_hoverCursor);
+        CursorManager.Instance.SetCursor(_hoverCursor);
     }
 
     public void OnPointerExit(PointerEventData eventData)
     {
         _isHovering = false;
-        MouseManager.Instance.ResetCursor();
+        CursorManager.Instance.ResetCursor();
     }
 
     public void OnPointerDown(PointerEventData eventData)
     {
-        MouseManager.Instance.SetCursor(_clickCursor);
+        CursorManager.Instance.SetCursor(_clickCursor);
     }
 
     public void OnPointerUp(PointerEventData eventData)
     {
         if (_isHovering)
         {
-            MouseManager.Instance.SetCursor(_hoverCursor);
+            CursorManager.Instance.SetCursor(_hoverCursor);
         }
         else
         {
-            MouseManager.Instance.ResetCursor();
+            CursorManager.Instance.ResetCursor();
         }
     }
 
@@ -44,8 +44,8 @@ public class UICursorInteractable : MonoBehaviour, IPointerEnterHandler, IPointe
         if (_isHovering)
         {
             _isHovering = false;
-            if (MouseManager.Instance != null)
-                MouseManager.Instance.ResetCursor();
+            if (CursorManager.Instance != null)
+                CursorManager.Instance.ResetCursor();
         }
     }
 }
